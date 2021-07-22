@@ -13,6 +13,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/franklin-huichi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/franklin-huichi/" height="30" width="40" /></a>
 <a href="https://discord.com/users/447525174875521034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Huichi007#5001" height="30" width="40" /></a>
+  <a href="https://www.freecodecamp.org/franh20" target="blank"><img align="center" src="https://img.icons8.com/windows/452/free-code-camp.png" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
